@@ -1,2 +1,2 @@
-# Programa-o_Criativa_Python
+# Programacao-Criativa-Python
 Exemplos em Python para a Programação Criativa
